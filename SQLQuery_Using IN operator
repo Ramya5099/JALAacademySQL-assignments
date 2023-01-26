@@ -1,0 +1,4 @@
+SELECT Sname, City
+FROM SalesPeople
+WHERE City IN ('Barcelona','london');
+GO

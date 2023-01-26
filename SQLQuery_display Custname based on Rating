@@ -1,0 +1,4 @@
+SELECT Cname 
+FROM Customers
+WHERE Rating = 100;
+GO

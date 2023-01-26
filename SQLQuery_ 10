@@ -1,0 +1,4 @@
+SELECT Cname, City, Rating
+FROM Customers
+WHERE Rating <= 100 OR City = 'Rome';
+GO

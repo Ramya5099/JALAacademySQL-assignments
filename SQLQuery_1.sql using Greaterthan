@@ -1,0 +1,4 @@
+SELECT *
+FROM Orders
+WHERE AMT > 1000;
+GO

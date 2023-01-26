@@ -1,0 +1,3 @@
+SELECT Snum FROM SalesPeople WHERE Snum LIKE 'A%' ;
+
+Go

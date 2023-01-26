@@ -1,0 +1,2 @@
+SELECT MAX(COMM) FROM SalesPeople;
+Go

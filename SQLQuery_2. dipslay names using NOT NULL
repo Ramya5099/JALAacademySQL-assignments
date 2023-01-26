@@ -1,0 +1,2 @@
+SELECT Sname FROM SalesPeople WHERE Sname IS NOT NULL;
+Go
